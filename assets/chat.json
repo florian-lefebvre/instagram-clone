@@ -1,0 +1,50 @@
+[
+  {
+    "type": "text",
+    "content": "Hi dude how are you ?",
+    "userId": 0,
+    "time": "15:00"
+  },
+  {
+    "type": "text",
+    "content": "Fine!",
+    "userId": 1,
+    "time": "15:01"
+  },
+  {
+    "type": "text",
+    "content": "Do you like Tape five ?",
+    "userId": 1,
+    "time": "15:01"
+  },
+  {
+    "type": "audio",
+    "content": "A Cool Cat in Town.mp3",
+    "userId": 1,
+    "time": "15:01"
+  },
+  {
+    "type": "text",
+    "content": "Yeah that's great!",
+    "userId": 0,
+    "time": "15:06"
+  },
+  {
+    "type": "text",
+    "content": "What about my memes?",
+    "userId": 0,
+    "time": "15:07"
+  },
+  {
+    "type": "image",
+    "content": "respect.gif",
+    "userId": 0,
+    "time": "15:07"
+  },
+  {
+    "type": "image",
+    "content": "pain.gif",
+    "userId": 0,
+    "time": "15:08"
+  }
+]

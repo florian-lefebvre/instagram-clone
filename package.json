@@ -1,0 +1,21 @@
+{
+  "name": "instagram-clone",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.6"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^3.3.4",
+    "autoprefixer": "9",
+    "postcss": "7",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+  }
+}
